@@ -1,0 +1,21 @@
+{
+  "name": "toy-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/plugin-transform-modules-commonjs": "^7.13.8",
+    "@babel/traverse": "^7.13.15",
+    "acorn": "^8.1.0",
+    "webpack": "^5.31.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
